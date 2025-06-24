@@ -1,3 +1,5 @@
+-- Account Inactivity Alert
+
 WITH LastTxn AS (
   SELECT
     p.id                                AS plan_id,
