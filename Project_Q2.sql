@@ -1,3 +1,5 @@
+-- Transaction Frequency Analysis
+
 WITH 
   -- 1. Count each customer’s total transactions and capture their first & last transaction dates
   CustomerTxns AS (
