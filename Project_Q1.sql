@@ -1,3 +1,5 @@
+-- High-Value Customers with Multiple Products
+
 SELECT * FROM users_customuser LIMIT 5;
 SELECT * FROM savings_savingsaccount LIMIT 5;
 SELECT * FROM plans_plan LIMIT 5;
