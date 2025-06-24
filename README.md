@@ -14,4 +14,4 @@ Files
 How to Run
 1. Load your database schema into your SQL engine (e.g., MySQL, PostgreSQL).  
 2. Open each `.sql` file in your SQL client and execute.  
-3. Verify the results match the expected output in the project brief.
+3. Verify the results match the expected output in the project brief (SQL Capstone Project)
