@@ -1,5 +1,6 @@
-WITH 
+--  Customer Lifetime Value (CLV).
 
+WITH 
   -- 1. Combine all deposit and withdrawal transactions into one stream
   AllTxns AS (
     SELECT
